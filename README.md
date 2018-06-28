@@ -1,2 +1,2 @@
 # R
-For learing R
+For learning R
