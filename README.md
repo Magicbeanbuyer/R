@@ -1,2 +1,2 @@
 # R
-For learng R
+For learing R
